@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fc2222118a283bf4da6cc38d2024fe79
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - piecePrefab: {fileID: 6741336342636632193, guid: 888787fd2a54e0c459ed72093e695801,
+      type: 3}
+  - pieceOneMaterial: {fileID: 2100000, guid: 6237747eac72eb447a5022648d5598c7, type: 2}
+  - pieceSecondMaterial: {fileID: 2100000, guid: 1776889613e730d428773f5d049fd508,
+      type: 2}
+  - pieceThirdMaterial: {fileID: 2100000, guid: 53fc5c1a73c912049908d6288c72fb16,
+      type: 2}
+  - pieceFourMaterial: {fileID: 2100000, guid: d29a098766c0ade45805b7608a797792, type: 2}
+  - pressedDownGameObject: {instanceID: 0}
+  - pressedUpGameObject: {instanceID: 0}
+  - matchesFoundText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
